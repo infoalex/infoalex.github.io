@@ -1,0 +1,13 @@
+= Titulo del Post 
+
+
+Probando nuestros primeros elementos +
+Dentro de la web 
+<p> No entiende etiquetas HTML </p>
+
+WARNING: Poner el simbolo a la izquierda de peligro
+
+=== Subtitulo del Post
+
+
+Esta es la segunda parte del post que le traigo a Uds!
