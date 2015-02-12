@@ -25,6 +25,13 @@ Type the word [userinput]#asciidoc# into the search bar.
 http://asciidoctor.org
 
 
+:link-atrrs:
 
 
+link:http://www.google.co.ve[Alexis^]
+
+
+
+:link-atrrs:
+Let's view the raw HTML of the link:view-source:asciidoctor.org[Asciidoctor homepage, window="_blank"].
 
