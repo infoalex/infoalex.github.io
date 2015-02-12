@@ -11,3 +11,20 @@ WARNING: Poner el simbolo a la izquierda de peligro
 
 
 Esta es la segunda parte del post que le traigo a Uds!
+
+
+
+<span class="userinput">asciidoc</span>
+
+
+
+Type the word [userinput]#asciidoc# into the search bar.
+
+
+:hide-uri-scheme:
+http://asciidoctor.org
+
+
+
+
+
